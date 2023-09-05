@@ -33,7 +33,7 @@ public class Pruebas {
 		System.out.println(us.getCodUsua());
 		System.out.println(us.getNomUsua());
 		System.out.println(us.getApeUsua());
-		System.out.println("==============================================");
+	
 		//insertar
 		System.out.println("Insertar nuevo usuario: Pepe Perez, de Tipo = 2 (cliente) y cla_usua=1001");
 		System.out.println("-------------------------------------------------------------------------");
